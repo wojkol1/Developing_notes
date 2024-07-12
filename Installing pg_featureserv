@@ -1,0 +1,4 @@
+osboxes linux server 24
+
+sudo apt-get update
+sudo apt-get upgrade
